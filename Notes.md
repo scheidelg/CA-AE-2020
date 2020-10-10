@@ -43,7 +43,6 @@
 
     The `index.html` file contents should be similar to:
 
-        ```
         <!-- Redirect to the OneNote page for this class -->
         <!DOCTYPE html>
         <html>
@@ -54,7 +53,6 @@
             <p>Click to access <a href="https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa">the OneNote page</a> for SEC530 at SANS Cyber Architecture 2020, AE.</p>
           </body>
         </html>
-        ```
 
     Edit the `index.html` file contents to use the correct URL in the HTTP redirect and the HREF; and an appropriate label for the OneNote notebook. 
 

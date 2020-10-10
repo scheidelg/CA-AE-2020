@@ -86,7 +86,7 @@
 
  2. Create a new notebook page `Class Notes` > `Day 1 Notes and References`
  
- 4. Under `Class Notes` > `General Information`:
+ #. Under `Class Notes` > `General Information`:
  
      - URL for this OneNote notebook: https://ca2020ae.scheidel.net (https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa)
      - Look at the `General Information` content and Slack intro messages for other classes; add initial content based on that

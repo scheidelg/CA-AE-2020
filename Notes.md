@@ -58,5 +58,24 @@
 
     Note that there will already be a CNAME file. This was automatically created when the custom domain was enabled for GitHub Pages.
 
- 6. 
+ 6. Login to GoDaddy and create a CNAME record that redirects to the GitHub project's GitHub Pages web page.
+ 
+     - **Manage My Products**
+     - Under the list of domains, find `scheidel.net`
+     - To the right of **scheidel.net**, click on **DNS**
+     - Click **ADD** to add a new DNS record
+
+         Type: CNAME
+         Host: (base name within `scheidel.net`)
+         Points to: `scheidelg.github.io`
+         TTL: 1 week
+
+    Note: This assumes that we already have the A records created for the apex domain (i.e., `scheidel.net`) to resolve to the GitHub Pages IP addresses:
+
+        185.199.108.153
+        185.199.109.153
+        185.199.110.153
+        185.199.111.153
+
+
  (notes on setting up the OneNote notebook structure

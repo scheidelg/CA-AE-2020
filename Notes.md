@@ -65,14 +65,17 @@
      - To the right of **scheidel.net**, click on **DNS**
      - Click **ADD** to add a new DNS record
 
-           Type: CNAME
-           Host: (base name within `scheidel.net`)
-           Points to: `scheidelg.github.io`
-           TTL: 1 week
+           | Type | Host | Points to | TTL |
+           | ---- | --- | --- | --- |
+           | CNAME | (base name within `scheidel.net`) | scheidelg.github.io | 1 week |
 
     Note: This assumes that we already have the A records created for the apex domain (i.e., `scheidel.net`) to resolve to the GitHub Pages IP addresses:
 
-        185.199.108.153
+        Type: A
+        Name: @
+        Value: 185.199.108.153
+        TTL: 1 week
+
         185.199.109.153
         185.199.110.153
         185.199.111.153

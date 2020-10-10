@@ -1,10 +1,8 @@
 1. Pick:
 
-      a. a name for the class OneNote notebook that is fairly simple and easy to remember
-      
-      b. a corresponding FQDN as a subdomaon of scheidel.net
-      
-      c. a corresponding GitHub project name
+    - a name for the class OneNote notebook that is fairly simple and easy to remember
+    - a corresponding FQDN as a subdomaon of scheidel.net
+    - a corresponding GitHub project name
     
    We're looking for a OneNote notebook name that's easy for students to remember and closely associated with the event, with a matching FQDN that is easy to remember, short, and easy to type.
 
@@ -12,9 +10,9 @@
 
    For example, for SEC530 at the SANS Cyber Architecture in the United Arab Emirates (AE) we picked:
    
-    a. a OneNote notebook name of `CA 2020 AE - SEC530`
-    b. an FQDN of `ca2020ae.scheidel.net`
-    c. a GitHub project name of `CA-2020-AE`
+    - a OneNote notebook name of `CA 2020 AE - SEC530`
+    - an FQDN of `ca2020ae.scheidel.net`
+    - a GitHub project name of `CA-2020-AE`
 
 2. Create a OneNote notebook with the assigned name.
 

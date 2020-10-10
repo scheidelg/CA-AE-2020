@@ -43,9 +43,9 @@
  
     The `index.html` file contents should be similar to:
     
-        > blah
-        > blah
-        > blah
+        blah
+        blah
+        blah
 
     Edit the `index.html` file contents to use the correct URL in the HTTP redirect and the HREF; and an appropriate label for the OneNote notebook. 
  

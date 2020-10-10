@@ -1,3 +1,5 @@
+**Create OneNote Notebook, Domain, and Redirect**
+
 1. Assign:
 
     - a name for the class OneNote notebook that is fairly simple and easy to remember
@@ -78,5 +80,13 @@
 | A | @ | 185.199.110.153 | 1 week |
 | A | @ | 185.199.111.153 | 1 week |
 
+**Setup Initial OneNote Notebook Pages**
 
- (notes on setting up the OneNote notebook structure
+ 1. Rename the default OneNote notebook section to `Class Notes`, rename the default page in that section to `General Information`
+
+ 2. Create a new notebook page `Class Notes` > `Day 1 Notes and References`
+ 
+ 4. Under `Class Notes` > `General Information`:
+ 
+     - URL for this OneNote notebook: https://ca2020ae.scheidel.net (https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa)
+     - Look at the `General Information` content and Slack intro messages for other classes; add initial content based on that

@@ -6,7 +6,7 @@
 
    We're looking for a OneNote notebook name that's easy for students to remember and closely associated with the event, with a matching FQDN that is easy to remember, short, and easy to type.
 
-   The GitHub project name should be similar to the FQDN but this isn't super important, since students won't generally see it.
+   The GitHub project name should be similar to the FQDN but this isn't too important since students won't generally see it.
 
    For example, for SEC530 at the SANS Cyber Architecture in the United Arab Emirates (AE) I picked:
 
@@ -43,12 +43,22 @@
 
     The `index.html` file contents should be similar to:
 
-        blah
-        blah
-        blah
+        ```
+        <!-- Redirect to the OneNote page for this class -->
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <meta http-equiv="Refresh" content="0; url=https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa" />
+          </head>
+          <body>
+            <p>Click to access <a href="https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa">the OneNote page</a> for SEC530 at SANS Cyber Architecture 2020, AE.</p>
+          </body>
+        </html>
+        ```
 
     Edit the `index.html` file contents to use the correct URL in the HTTP redirect and the HREF; and an appropriate label for the OneNote notebook. 
 
     Note that there will already be a CNAME file. This was automatically created when the custom domain was enabled for GitHub Pages.
 
+ 6. 
  (notes on setting up the OneNote notebook structure

@@ -5,17 +5,17 @@
 2. Create a OneNote notebook with the assigned name.
 
     - Open OneNote on the web
-    - Under the list of 'My Notebooks', click '+ New'
+    - Under the list of **My Notebooks**, click **+ New**
 
 3. Update sharing and editing access, and get the page's sharable URL.
 
    Note: For the time being we're trying to avoid using a shared editing password. We might have to staring using passwords if there are ever problems with people maliciously mucking with the notebook.
 
     - Access the notebook via OneNote on the web
-    - In the top-right corner, click on 'Share'
-    - Click on 'Anyone with the link can edit'
-    - Set an expiration date and click 'Apply'
-    - Click on 'Copy link' to get a shareable link; copy to clipboard
+    - In the top-right corner, click on **Share**
+    - Click on **Anyone with the link can edit**
+    - Set an expiration date and click **Apply**
+    - Click on **Copy link** to get a shareable link; copy to clipboard
     - Close the dialog
 
  4. asdf

@@ -18,8 +18,9 @@
 
 1. Create a OneNote notebook with the assigned name.
 
-    - Open OneNote on the web
-    - Under the list of **My Notebooks**, click **+ New**
+    - Open OneDrive
+    - Browse to the folder containing class OneNote projects
+    - Copy the emplate to a new project
 
 1. Update sharing and editing access, and get the page's sharable URL.
 
@@ -28,7 +29,7 @@
     - Access the notebook via OneNote on the web
     - In the top-right corner, click on **Share**
     - Click on **Anyone with the link can edit**
-    - Set an expiration date and click **Apply**
+    - Set an expiration date (a few weeks after the class) and click **Apply**
     - Click on **Copy link** to get a shareable link; copy to clipboard; save in a scratchpad so you don't lose it
     - Close the dialog
 

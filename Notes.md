@@ -12,9 +12,9 @@
 
    For example, for SEC530 at the SANS Cyber Architecture in the United Arab Emirates (AE) I picked:
 
-    - a OneNote notebook name of `CA 2020 AE - SEC530`
+    - a OneNote notebook name of `SEC530 - CA 2020 AE`
     - an FQDN of `ca2020ae.scheidel.net`
-    - a GitHub project name of `CA-2020-AE`
+    - a GitHub project name of `SEC530-CA-2020-AE`
 
 1. Create a OneNote notebook with the assigned name.
 

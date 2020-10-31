@@ -83,11 +83,4 @@ Note: This assumes that we already have the A records created for the apex domai
 
 **Setup Initial OneNote Notebook Pages**
 
- 1. Rename the default OneNote notebook section to `Class Notes`, rename the default page in that section to `Welcome!`
-
- 1. Create a new notebook page `Class Notes` > `Day 1 Notes and References`
- 
- 1. Under `Class Notes` > `Welcome!`:
- 
-     - URL for this OneNote notebook: https://ca2020ae.scheidel.net (https://1drv.ms/u/s!AmX2EQD23qhmhiXBpPAESwlyJtrr?e=aIeDSa)
-     - Look at the `General Information` content and Slack intro messages for other classes; add initial content based on that
+Refer to the notes in the OneNote template notebook for customizing and updating for this class.

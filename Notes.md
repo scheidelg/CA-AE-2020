@@ -63,8 +63,6 @@
 
  1. Login to GoDaddy and create a CNAME record that redirects to the GitHub project's GitHub Pages web page.
  
-    Note: This assumes that we already have the A records created for the apex domain (i.e., `scheidel.net`) to resolve to the GitHub Pages IP addresses.
-
      - **Manage My Products**
      - Under the list of domains, find `scheidel.net`
      - To the right of **scheidel.net**, click on **DNS**
@@ -73,6 +71,8 @@
 | Type | Host | Points to | TTL |
 | :--- | :--- | :--- | :--- |
 | CNAME | (base name within `scheidel.net`) | scheidelg.github.io | 1 week |
+
+Note: This assumes that we already have the A records created for the apex domain (i.e., `scheidel.net`) to resolve to the GitHub Pages IP addresses:
 
 | Type | Name | Value | TTL |
 | :--- | :--- | :--- | :--- |

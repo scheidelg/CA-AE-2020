@@ -3,7 +3,7 @@
 1. Assign:
 
     - a name for the class OneNote notebook that is fairly simple and easy to remember
-    - a corresponding FQDN as a subdomaon of scheidel.net
+    - a corresponding FQDN as a subdomain of scheidel.net
     - a corresponding GitHub project name
 
    We're looking for a OneNote notebook name that's easy for students to remember and closely associated with the event, with a matching FQDN that is easy to remember, short, and easy to type.
@@ -30,7 +30,8 @@
     - In the top-right corner, click on **Share**
     - Click on **Anyone with the link can edit**
     - **Optionally** Set an expiration date (a few weeks after the class) and click **Apply**
-      **If you set an expiration date, then ahead of that date you'll need to also create a 'view' link and update this project's `index.html` file to redirect to that new link.**
+    
+      **If you set an expiration date, then ahead of that date you'll need to also create a 'view' link and update this project's `index.html` file to redirect to that new link.** Otherwise somebody browsing to the x.scheidel.net URL will be denied access.
     - Click on **Copy link** to get a shareable link; copy to clipboard; save in a scratchpad so you don't lose it
     - Close the dialog
 
